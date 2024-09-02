@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './fetchData.css'
 
 const URLS = [
     'https://jsonplaceholder.typicode.com/posts',
